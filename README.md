@@ -3,6 +3,35 @@
 
 # Welcome to Your Own Project!
 
+## Marriage & Divorce: Does age of first marriage influence its potential to last
+
+* Is the mean age of first marriage growing
+* Which are the countries with highest/lowest marriage/divorce rates
+* Does age of first marriage influence likelyhood of divorce and how
+* 
+
+## Motivation
+
+As I am about to take a big step in my life I was curious how statistically likely is it for this step to be once in a lifetime. 
+According to divorce.com Spain is not in top 20 of the countries with the highest divorce rates so the start is promissing (Lithuania is number 9 with 55% divorce rate)
+
+
+## Sources
+
+OECD Family Database (http://www.oecd.org/els/family/database.htm)
+Specifically SF3.1 Indicator on marriage and divorce rates
+
+## Limitations
+
+It is very hard to find new statistics. Most of the statistics pages provide information for 2014 or earlier. So I will be using the source that has data at least until the 2016.
+
+
+
+
+
+
+
+
 ## Project Goals
 * Do the e2e analysis by your own.
 * Give some insights about a topic of your choice giving some arguments by:
@@ -25,11 +54,7 @@
 * The audience will evaluate their understanding on your presentation (this will help you in further presentations).
 
 ## General schedule
-*Today*
-* Think on a topic and propose some questions. 
-* Choose the data interesting. 
-* Look for documentation to give context to your project.
-* Write the README file in your repository.
+
 
 *Tuesday*
 * Teachers validation --NO CODE UNTIL HERE--
